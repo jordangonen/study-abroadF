@@ -36,6 +36,36 @@
 
 
 }
+#top-4 {
+  background-image: url('../images/cover4.jpg');
+  background-attachment: fixed;
+  min-height: 250px;
+  max-height: 250px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: white;
+
+}
+#top-5 {
+  background-image: url('../images/cover5.jpg');
+  background-attachment: fixed;
+  min-height: 250px;
+  max-height: 250px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: white;
+
+}
+#top-6 {
+  background-image: url('../images/cover6.jpg');
+  background-attachment: fixed;
+  min-height: 250px;
+  max-height: 250px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: white;
+
+}
 .title-text  {
   margin-top: 250px;
 }
@@ -101,4 +131,7 @@
 .small {
   text-align: center;
   font-size: 14;
+}
+.doit {
+  margin-left: 10px;
 }
