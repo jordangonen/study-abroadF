@@ -23,6 +23,19 @@
 
 
 }
+#top-3 {
+  background-image: url('../images/cover3.jpg');
+  background-attachment: fixed;
+  min-height: 250px;
+  max-height: 250px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: white;
+
+
+
+
+}
 .title-text  {
   margin-top: 250px;
 }
@@ -73,10 +86,10 @@
 }
 #welcome2 {
   padding-top: 30px;
-
+  margin-left: 10px;
+  margin-right: 10px;
 
   padding-bottom: 30px;
-  margin-bottom: 0px;
 
 }
 .no-bullets{
@@ -84,4 +97,8 @@
 }
 #main-text {
   padding-top: 10px;
+}
+.small {
+  text-align: center;
+  font-size: 14;
 }
