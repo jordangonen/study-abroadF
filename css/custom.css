@@ -1,3 +1,28 @@
 .panel-body {
   margin-top: 100px;
 }
+
+#top {
+  background-image: url('../images/cover1.jpg');
+  background-attachment: fixed;
+  min-height: 800px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: white;
+
+
+}
+.title-text  {
+  margin-top: 250px;
+}
+#point-down {
+}
+.support-text {
+  font-size: 14px;
+}
+.no-bullets {
+  list-style-type: none;
+}
+.panel-body {
+  margin-top: 0px;
+}
