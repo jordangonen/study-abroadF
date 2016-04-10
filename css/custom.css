@@ -3,7 +3,7 @@
 }
 
 #top {
-  background-image: url('../images/cover1.jpg');
+  background-image: url('../images/cover2.jpg');
   background-attachment: fixed;
   min-height: 800px;
   margin-top: 0px;
@@ -12,8 +12,22 @@
 
 
 }
+#top-2 {
+  background-image: url('../images/cover1.jpg');
+  background-attachment: fixed;
+  min-height: 250px;
+  max-height: 250px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: white;
+
+
+}
 .title-text  {
   margin-top: 250px;
+}
+.title-text2 {
+  margin-top: 50px;
 }
 #point-down {
 }
@@ -25,4 +39,49 @@
 }
 .panel-body {
   margin-top: 0px;
+}
+#upcoming-events {
+  margin-bottom: 30px;
+}
+.container-jumbo {
+  padding-bottom: 50px;
+}
+#layout {
+  padding-bottom: 10px;
+  text-align: center;
+}
+#horizontal {
+  display: inline;
+  list-style-type: none;
+}
+.container2 {
+  background-color: black;
+}
+.social {
+  margin-left: 10px;
+  margin-right:10px;
+}
+#bottom {
+  padding-top: 0px;
+}
+.container-color {
+  background-image: url('../images/cover4.jpg');
+  min-height: 50px;
+  background-attachment: fixed;
+  color: white;
+  padding-top: 0px;
+}
+#welcome2 {
+  padding-top: 30px;
+
+
+  padding-bottom: 30px;
+  margin-bottom: 0px;
+
+}
+.no-bullets{
+  list-style-type: none;
+}
+#main-text {
+  padding-top: 10px;
 }
